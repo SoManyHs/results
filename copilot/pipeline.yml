@@ -15,7 +15,7 @@ source:
   # has the following properties: repository, branch.
   properties:
     access_token_secret: github-token-voting-app-results
-    branch: master
+    branch: main
     repository: https://github.com/SoManyHs/results
 
 # The deployment section defines the order the pipeline will deploy
